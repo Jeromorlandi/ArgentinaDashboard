@@ -1,0 +1,13 @@
+-- Click on link to access my Argentina Economic Outlook Dashboard. 
+
+https://lookerstudio.google.com/s/qcs3ePW-nco
+
+-- Este Dasboard utiliza información proveniente de dos códigos adicionales que se encuentran en este repositorio. 
+-- El primero es el archivo "BCRA", el cual analiza una base de datos pública actualizada diariamente por el Banco Central de la República Argentina. 
+-- El segundo es el archivo "Finance", que utiliza una librería de Yahoo Finance para obtener las cotizaciones de acciones, índices y criptomonedas. 
+-- Ambos archivos aplican una función que proporciona los datos de los viernes y los últimos días hábiles de cada mes, ya que son los datos relevantes para el informe.
+
+-- This Dashboard relies on two other codes available in this repository. 
+-- The BCRA file analyzes a public database updated daily by the Central Bank of the Argentine Republic. 
+-- The Finance file retrieves values for stocks, indices, and cryptocurrencies using the Yahoo Finance library. 
+-- In both files, a function is applied to retrieve data for Fridays and the last business days of each month since these are the data relevant to the report.
